@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.vnk.complatinggeoloc" versionCode="10" version="2.2.2">
+
+  <!-- versionCode is optional and Android only -->
+
+  <name>testing email</name>
+
+  <description>
+    email testing
+  </description>
+  <platform name="android">
+  
+  </platform>
+  <!--<plugin name="cordova-plugin-geolocation" spec="~1.0.0" />-->
+  
+  <!--<gap:plugin name="de.appplant.cordova.plugin.email-composer" />-->
+  
+  <author href="#">
+   dooshyant
+  </author>
+ 
+</widget>
